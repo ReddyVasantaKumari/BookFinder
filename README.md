@@ -40,5 +40,3 @@ Before you begin, make sure you have:
 git clone git@github.com:ReddyVasantaKumari/BookFinder.git
 cd book-finder
 
-<img width="3061" height="1393" alt="image1" src="https://github.com/user-attachments/assets/d83667da-a111-498e-8339-3dfa01145432" />
-
