@@ -37,5 +37,5 @@ Before you begin, make sure you have:
 
 ### Clone this repository
 ```bash
-git clone https://github.com/your-username/book-finder.git
+git clone git@github.com:ReddyVasantaKumari/BookFinder.git
 cd book-finder
